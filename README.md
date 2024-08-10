@@ -36,5 +36,6 @@ while true do
         wait(10)
     end
 end
+```
 ---
 Author @abcMateusz
